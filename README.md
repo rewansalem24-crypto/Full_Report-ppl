@@ -1,10 +1,10 @@
 ```mermaid
 gantt
-    title 📊 إجمالي مبيعات المنتجات بالدولار (\$)
+    title 📊 Average sales/Dollar (\$)
     dateFormat  X
     axisFormat %s
     
-    section المنتجات
+    section product
     GTX Pro (3.5M)           :active, 0, 3510578
     GTX Plus Pro (2.6M)      : 0, 2629651
     MG Advanced (2.2M)       : 0, 2216387
@@ -14,7 +14,7 @@ gantt
 ```
 
 ```mermaid
-pie title 🏆 نسبة نجاح صفقات أعلى الوكلاء أداءً (Win Rate %)
+pie title 🏆 Average deals of Agents (Win Rate %)
     "Hayden Neloms (70.4%)" : 70.4
     "Maureen Marcano (70.0%)" : 70.0
     "Wilburn Farren (69.6%)" : 69.6
